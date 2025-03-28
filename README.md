@@ -17,7 +17,7 @@ This project focused on examining the embedding of a VAE model used for single-c
 
 1. Gene Module Encoding Analysis:
    
-   1.1 [Correlation Analysis](https://github.com/olxssa/vae_embeddings/blob/main/1a_correlation_analysis.ipynb)
+   1.1 [Correlation Analysis](https://github.com/olxssa/vae_embeddings/blob/main/1a_Correlation_Analysis.ipynb)
      
    1.2 [Gene Ontology (GO) Enrichment Analysis](https://github.com/olxssa/vae_embeddings/blob/main/1b_GO_Enrichment_Analysis.ipynb)
 
