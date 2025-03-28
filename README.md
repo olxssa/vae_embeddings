@@ -17,17 +17,17 @@ This project focused on examining the embedding of a VAE model used for single-c
 
 1. Gene Module Encoding Analysis:
    
-   1.1 [Correlation Analysis]()
+   1.1 [Correlation Analysis](https://github.com/olxssa/vae_embeddings/blob/main/1a_correlation_analysis.ipynb)
      
-   1.2 [Gene Ontology (GO) Enrichment Analysis]()
+   1.2 [Gene Ontology (GO) Enrichment Analysis](https://github.com/olxssa/vae_embeddings/blob/main/1b_GO_Enrichment_Analysis.ipynb)
 
 2. Embedding Space Properties Investigation:
 
-   2.1 [Stability Analysis]()
+   2.1 [Stability Analysis](https://github.com/olxssa/vae_embeddings/blob/main/2a_Stability_Analysis.ipynb)
 
-   2.2 [Smoothness Analysis]()
+   2.2 [Smoothness Analysis](https://github.com/olxssa/vae_embeddings/blob/main/2b_Smoothness_Analysis.ipynb)
 
-   2.3 [Disentanglement Analysis]()
+   2.3 [Disentanglement Analysis](https://github.com/olxssa/vae_embeddings/blob/main/2c_Disentanglement_Analysis.ipynb)
 
 
 References:
