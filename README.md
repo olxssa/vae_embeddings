@@ -31,7 +31,7 @@ This project focused on examining the embedding of a VAE model used for single-c
 
 
 References:
-
+ 
 [1] Q. Shi, X. Chen, and Z. Zhang, “Decoding Human Biology and Disease Using Single-cell Omics Technologies,” Genomics, Proteomics & Bioinformatics, vol. 21, no. 5, p. 926, Sep. 20, 2023. DOI: 10.1016/j.gpb. 2023 . 06 . 003. pmid: 37739168. [Online]. Available: https : / / pmc . ncbi . nlm . nih . gov / articles / PMC10928380/ (visited on 03/21/2025)
 
 [2] F. Tang, C. Barbacioru, Y. Wang, et al., “mRNA-Seq whole-transcriptome analysis of a single cell,” Nature Methods, vol. 6, no. 5, pp. 377–382, May 2009, ISSN: 1548-7105. DOI: 10.1038/nmeth.1315. [Online]. Available: https://www.nature.com/articles/nmeth.1315 (visited on 03/21/2025).
